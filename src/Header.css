@@ -1,0 +1,14 @@
+.header {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: #131921;
+    position: sticky;      
+  }
+  
+  .header__logo {
+    color: rgb(59, 182, 231);
+    width: 100px;
+    margin: 0 10px 20px;
+    margin-top: 18px;
+  }
